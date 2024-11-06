@@ -12,7 +12,7 @@ public class SwitchCase {
                 System.out.println("No");
                 break;
             default:
-                System.out.println("No");
+                System.out.println("Not");
         }
         System.out.println("ends");
     }
