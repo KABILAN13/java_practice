@@ -5,6 +5,6 @@ public class ForLoop {
         for (int i = 1; i <= n; i++) {
             sum *= i;
         }
-        System.out.println("sum of numbers: " + sum);
+        System.out.println("factorial of numbers: " + sum);
     }
 }
